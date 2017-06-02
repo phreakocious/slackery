@@ -1,0 +1,6 @@
+.idea
+.env
+config.yml
+Gemfile.lock
+db/*.db
+
